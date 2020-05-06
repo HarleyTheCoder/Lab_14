@@ -46,7 +46,7 @@ public class RoshamboApp {
 		}
 		scan.close();
 
-	}
+	} //Yeah I edited Kyle's just for kicks
 	
 	
 	//Calculate winner based on a trick I figured out. *feels clever*
@@ -64,6 +64,7 @@ public class RoshamboApp {
 		winner.setWins(1);
 		System.out.println("The winner is " + winner.getName() + "!");
 	}
+	
 	
 	//Select opponent
 	private static Player selectOpponent(Scanner scan) {
