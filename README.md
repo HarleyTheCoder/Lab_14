@@ -1,3 +1,6 @@
+*I recommend reading this in the "raw" form,
+for it to make sense.*
+
 # Lab_14
 Rock, Paper, Scissors.
 
