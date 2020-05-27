@@ -1,4 +1,4 @@
-*I recommend reading this in the "raw" form,
+*I recommend reading this in the "raw" format,
 for it to make sense.*
 
 # Lab_14
